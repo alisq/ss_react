@@ -1,0 +1,121 @@
+@import 'vars.scss';
+
+@font-face {
+    font-family: "AAHA";
+    src: url(fonts/AAHA-Regular.woff2) format(woff2);
+}
+html, body {
+    font-size:18px;
+    font-family: "freight-text-pro", serif;
+}
+
+a:link,
+a:visited {
+    color:$red;
+
+    &:hover {
+        text-decoration: none;
+        color:$fColor;
+    }
+}
+
+h1 {
+    font-family: 'AAHA';
+    font-size:2.2rem;
+    line-height:2rem;
+    white-space: nowrap;
+    text-align: right;
+    position:relative;
+    font-weight:normal;
+    // margin:1rem;
+
+}
+
+#header {
+    // background:$red;
+    display:grid;
+    grid-template-columns: 1fr 1fr;;
+    grid-column-gap: 1em;
+    
+    & h2 {
+        // color:$bgColor
+        font-weight:normal;
+        text-align:left;
+        font-size:2rem;
+        line-height:2rem;
+        margin-top:1.6em;
+    }
+
+    
+    & h3 {
+        padding:0;
+        margin:0;
+    }
+}
+
+h2, h3, h4, h5 {
+    
+    text-align:center;
+    
+}
+
+h1, h3, h5 {
+    color:$red;
+}
+
+
+ul  {
+    padding:0;
+& li {
+    
+    list-style-type:circle;
+}
+}
+
+
+ol {
+    padding:0;
+    & li::marker {
+    font-weight:bold;
+}
+}
+
+li {
+    margin-bottom:0.5em;
+    &::marker {
+        color: $red;
+    }
+}
+ 
+
+a.tool_tip {
+    color:inherit;
+    text-decoration: underline;
+}
+
+#tool_tip {
+    max-width:300px;
+    padding:0.5em 0.5em 0.5em 1em;
+    border-top-left-radius:1em;
+    border-top-right-radius:1em;
+    border-bottom-right-radius:1em;
+    border:1px solid $red;
+    font-size:0.75em;
+    background:$fColor;
+    color:$bgColor;
+    position:fixed;
+    z-index:9999;
+    // display:none;
+    opacity:0;
+    top:-300px;
+    left:-300px;
+
+
+    transform:translateY(calc(-100% - 1rem));
+    transition:opacity 0.2s, top 0.2s, left 0.2s;
+
+    &.active {
+        // display:block;
+        opacity:1;
+    }
+}
