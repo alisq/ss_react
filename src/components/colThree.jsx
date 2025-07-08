@@ -1,40 +1,53 @@
+import ModalImage from "react-modal-image";
+
 import imgPostIt from '../img/AAHA instagram post Oct 3 2023 1-post its.jpg'
 import imgPavillion from '../img/AAHA instagram post Nov 24 2023 1-pavillion.jpg'
 import imgMeeting from '../img/AAHA instagram post Feb 3 2025 3 - vince.JPG'
 
+import smallImgPostIt from '../img/small/AAHA instagram post Oct 3 2023 1-post its.jpg'
+import smallImgPavillion from '../img/small/AAHA instagram post Nov 24 2023 1-pavillion.jpg'
+import smallImgMeeting from '../img/small/AAHA instagram post Feb 3 2025 3 - vince.JPG'
 function ColThree(){
 
   return (
      <section className="column" id="colThree">
-     <div class="column_interior">
-            <div class="interior">
+     <div className="column_interior">
+       <div className="column_header">
+                  <h2><h6>September 2025-<br />May 2026</h6><br />a cross-Canada<br /> architecture <br />
+superstudio</h2>
+              </div>
+            <div className="interior">
                      
 
 
 
 
-
-             <h3>Shared Principles</h3>
-                     <img src={imgPostIt} />
+        <div className="section" id="shared_principles">
+             <h3 className="sticky">Shared Principles</h3>
+                     <ModalImage small={smallImgPostIt} large={imgPostIt} alt="a grid of post-it notes" />
   <ol>
     <li><strong>Indigenous solidarity:</strong> Whether these studios focus directly on Indigenous housing issues in direct collaboration with Indigenous partners, or whether they focus exclusively on urban housing issues for a diverse population, all studios will acknowledge Indigenous land relations and the effects of colonization within the studio.</li>
     <li><strong>Housing decommodification:</strong> The housing problem in Canada is a result of the rapid increase in the cost of land caused by the assetization of land and housing. These studios will explore decommodified approaches to housing.</li>
     <li><strong>Wholistic quality:</strong> The housing problem is often addressed quantitatively, as either a question of supply or price-point, but housing alienation is a qualitative issue. Housing needs to be better designed to connect inhabitants to their surrounding natural ecology, community of family and friends and neighbours, and sense of creative agency.</li>
     <li><strong>Collaboration:</strong> Housing is part of a complex system, with many participants. Architects have a deep understanding of the qualitative dimensions of home, but they don't have the training to navigate the policy landscape, diverse lived experience, and social struggles that shape the housing problem, so they need to address these issues with collaborators with other forms of expertise and within an ethical framework.</li>
-<img src={imgMeeting} />
+<ModalImage small={smallImgMeeting} large={imgMeeting} alt="still from a public meeting regarding housing" />
   </ol>
-
+{/* </div>
+<div className="section" id="shared_structures"> */}
   <h3>Shared Structures</h3>
   <ul>
    
     <li><strong>Collaboration with non-architectural partners:</strong> Studios will collaborate with non-architects, with direct knowledge and familiarity with community needs (for example: working with a local land trust, community group, First Nation, or directly with a community). </li>
     <li><strong>A broad set of shared protocols for partner engagement</strong> (we are looking for an existing set of protocols which are broad enough to address the range of potential collaborations and look for input from all participating schools—the Design Justice Network’s principles seem a good possibility: https://designjustice.org/read-the-principles)  </li>
-    <img src={imgPavillion} />
+    <ModalImage small={smallImgPavillion} large={imgPavillion} alt="students gathered around a home-made table in the Canadian Pavillion at Venice" />
 
     <li><strong>One or more demands to end housing alienation in Canada.</strong> Each studio is organized around a ‘demand.’ These can be existing demands within Architects Against Housing Alienation's manifesto (1-10), or it can be entirely new demand. Demands aspire to things that do not currently exist, but which are realizable in specific places, and are supported by local residents and organizations.   </li>
     <li><strong>Common online workshops and reviews with paired schools</strong> using virtual tools like MIRO and Zoom, amongst studios clustered based on shared studio subjects or demands. </li>
     <li><strong>Website Exhibition of Studio Work</strong> All student projects will be displayed on a designated Superstudio website. The virtual exhibition’s launch will coincide with the End-of-Term Webinar. </li>
   </ul>
+  </div>
+  
+  <div className="section" id="shared_schedule">
 
   <h3>Shared Schedule</h3>
   <ul>
@@ -51,7 +64,7 @@ function ColThree(){
     </li>
   </ul>
 
- 
+ </div>
   </div>
   </div>
     

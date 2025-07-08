@@ -9,12 +9,13 @@ html, body {
 
 a:link,
 a:visited {
-  color: #c48726;
+  color: #383131;
+  text-decoration: underline;
 }
 a:link:hover,
 a:visited:hover {
   text-decoration: none;
-  color: #383131;
+  color: #c48726;
 }
 
 h1 {
@@ -27,29 +28,47 @@ h1 {
   font-weight: normal;
 }
 
-#header {
-  display: grid;
-  grid-template-columns: 1fr 1fr;
-  grid-column-gap: 1em;
-}
-#header h2 {
+h2 {
   font-weight: normal;
   text-align: left;
   font-size: 2rem;
   line-height: 2rem;
-  margin-top: 1.6em;
+  margin-top: 0.6em;
 }
-#header h3 {
+h2 h6 {
+  padding: 0;
+  margin: 0;
+  display: inline-block;
+  font-size: 0.9rem;
+  color: #c48726;
+  line-height: 1.2;
+  height: 1em;
+  overflow: visible;
+}
+h2 h3 {
   padding: 0;
   margin: 0;
 }
 
-h2, h3, h4, h5 {
+h3 {
+  background: #FFFFFF;
+}
+h3.sticky {
+  position: sticky;
+  z-index: 10;
+  top: 0;
+}
+
+h3, h4, h5 {
   text-align: center;
 }
 
 h1, h3, h5 {
   color: #c48726;
+}
+
+ol li, ul li {
+  margin-left: 0.75em;
 }
 
 ul {
@@ -110,20 +129,31 @@ a.tool_tip {
 
 img {
   max-width: 100%;
+  filter: brightness(150%) grayscale(100%);
+  transition: filter 0.2s;
+}
+img#react-modal-image-img, img:hover {
+  filter: brightness(100%) grayscale(0%);
 }
 
-#left h1 {
-  transform: translateX(-75%);
-  left: 400px;
+.column {
+  width: 25vw;
+  height: 100vh;
+  overflow-y: scroll;
+  overflow-x: hidden;
+  overscroll-behavior: contain;
 }
-
-#center h1 {
-  transform: translateX(-75%);
+.column .column_header {
+  height: 10rem;
+  padding: 0.5em;
 }
-
-#right h1 {
-  transform: translateX(-75%);
-  left: -400px;
+header.mobile h1, header.mobile h2, header.mobile h4 {
+  text-align: center;
+  padding: 1rem 0 0 0;
+  margin: 0;
+}
+header.mobile h4 {
+  color: #c48726;
 }
 
 #footer {
@@ -131,6 +161,23 @@ img {
   padding: 2rem;
 }
 
+@media (min-width: 800px) {
+  header.mobile {
+    display: none;
+  }
+}
+@media (max-width: 800px) {
+  #container {
+    display: block;
+  }
+  .column {
+    width: 100%;
+    height: auto;
+  }
+  .column .column_header {
+    display: none;
+  }
+}
 html, body {
   margin: 0;
   padding: 0;

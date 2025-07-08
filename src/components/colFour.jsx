@@ -2,37 +2,49 @@ function ColFour(){
 
   return (
      <section className="column" id="colFour">
-     <div class="column_interior">
-            <div class="interior">
+     <div className="column_interior">
+       <div className="column_header">
+                
+              </div>
+            <div className="interior">
                           
 
-                
+                <div className="section" id="participating_institutions">
                 <h3>Participating Institutions</h3>
+              <ul>
+  <li><a href="https://www.athabascau.ca/science-and-technology/about/discover-our-academic-disciplines/raic-centre-for-architecture.html" target="_blank">Athabasca University</a></li>
+  <li><a href="https://www.bcit.ca/programs/architectural-science-bachelor-of-architectural-science-full-time-8050btech/" target="_blank">British Columbia Institute of Technology</a></li>
+  <li><a href="https://architecture.carleton.ca/" target="_blank">Carleton University</a></li>
+  <li><a href="https://www.dal.ca/faculty/architecture-planning/school-of-architecture.html" target="_blank">Dalhousie University</a></li>
+  <li><a href="https://www.torontomu.ca/architecture/" target="_blank">Toronto Metropolitan University</a></li>
+  <li><a href="https://sala.ubc.ca/" target="_blank">University of British Columbia</a></li>
+  <li><a href="https://sapl.ucalgary.ca/" target="_blank">University of Calgary</a></li>
+  <li><a href="https://umanitoba.ca/architecture/" target="_blank">University of Manitoba</a></li>
+  <li><a href="https://www.daniels.utoronto.ca/" target="_blank">University of Toronto</a></li>
+  <li><a href="https://admissions.ocadu.ca/program/environmental-design" target="_blank">OCAD University</a></li>
+  <li><a href="https://architecture.umontreal.ca/" target="_blank">Université de Montréal</a></li>
+  <li><a href="https://uwaterloo.ca/architecture/" target="_blank">University of Waterloo</a></li>
+</ul>
+
+</div>
+
+<div className="section" id="sponsor">
+                <h3>Sponsor</h3>
                 <ul>
-                    <li>Athabasca University</li>
-                    <li>British Columbia Institute of Technology</li>
-                    <li>Carleton University</li>
-                    <li>Toronto Metropolitan University</li>
-                    <li>University of British Columbia</li>
-                    <li>University of Calgary</li>
-                    <li>University of Manitoba</li>
-                    <li>University of Toronto</li>
-                    <li>Laurentian University</li>
-                    <li>Université de Montréal</li>
-                    <li>University of Waterloo</li>
+                    
+                    <li><a href="https://architecturecanada.ca/" target="_blank">Canadian Council of University Schools of Architecture</a></li>
+                    {/* <li>Royal Architecture Institute of Canada</li> */}
                 </ul>
 
-                <h3>Sponsors</h3>
-                <ul>
-                    <li>Canadian Council of University Schools of Architecture</li>
-                    <li>Royal Architecture Institute of Canada</li>
-                </ul>
-
+</div>
+<div className="section" id="organizer">
                 <h3>Organizer</h3>
                 <ul>
-                    <li>Architects Against Housing Alienation</li>
+                    <li><a href="https://aaha.ca/" target="_blank">Architects Against Housing Alienation</a></li>
                 </ul>
 
+</div>
+<div className="section" id="resources">
                 <h3>Resources</h3>
                 <ul>
   <li>Anderson, Sean, Mabel Wilson, and Museum of Modern Art (New York, N.Y.), eds. <em>Reconstructions: Architecture and Blackness in America</em>. New York, NY: The Museum of Modern Art, 2021.</li>
@@ -91,7 +103,7 @@ function ColFour(){
 
             </div>
             </div>
-    
+    </div>
     </section>
   );
 };
