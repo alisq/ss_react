@@ -1,4 +1,4 @@
-import {useState}  from "react";
+import parse from 'html-react-parser';
 
 function Studio({title, desc, school, teacher, demands, isOpen, onClick}) {
     //   const [isOpen, setIsOpen] = useState(false);
@@ -20,7 +20,7 @@ function Studio({title, desc, school, teacher, demands, isOpen, onClick}) {
                             )}
 
                             <h6><label>instructor(s):</label> <strong>{teacher}</strong></h6>
-                            <p>{desc}</p>
+                            {parse(desc)}
                             
                         </div>
  
