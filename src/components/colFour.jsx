@@ -10,7 +10,7 @@ function ColFour(){
                           
 
                 <div className="section" id="participating_institutions">
-                <h3>Participating Institutions</h3>
+                <h3 className="sticky">Participating Institutions</h3>
               <ul>
   <li><a href="https://www.athabascau.ca/science-and-technology/about/discover-our-academic-disciplines/raic-centre-for-architecture.html" target="_blank">Athabasca University</a></li>
   <li><a href="https://www.bcit.ca/programs/architectural-science-bachelor-of-architectural-science-full-time-8050btech/" target="_blank">British Columbia Institute of Technology</a></li>
@@ -44,8 +44,14 @@ function ColFour(){
                 </ul>
 
 </div>
+<h3>Enquiries</h3>
+<ul>
+                    <li>
+<a href="mailto:info@aaha.ca">info@aaha.ca</a></li>
+</ul>
+
 <div className="section" id="resources">
-                <h3>Resources</h3>
+                <h3  className="sticky">Resources</h3>
                 <ul>
   <li>Anderson, Sean, Mabel Wilson, and Museum of Modern Art (New York, N.Y.), eds. <em>Reconstructions: Architecture and Blackness in America</em>. New York, NY: The Museum of Modern Art, 2021.</li>
   <li>Bhandar, Brenna. <em>Colonial Lives of Property: Law, Land, and Racial Regimes of Ownership</em>. Global and Insurgent Legalities. Durham: Duke University Press, 2018.</li>
@@ -103,6 +109,7 @@ function ColFour(){
 
             </div>
             </div>
+
     </div>
     </section>
   );

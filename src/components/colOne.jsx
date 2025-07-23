@@ -17,7 +17,7 @@ function ColOne(){
             <div className="interior">
               
             <div className="section" id="housing_in_canada">
-<h3 className="sticky">Housing in Canada</h3>
+<h3 className="sticky">Housing Alienation in Canada</h3>
 
   <p>Housing is one of the most critical issues in Canada. Unaffordability seems to reach new heights each year, home ownership rates have declined, and precarity and homelessness are a constant presence almost everywhere. At the root of these problems is housing alienation—the condition of being separated from our fundamental connections to home. Alienation separates us from the land we inhabit, the social world that supports us, and our full creative lives.  Tthe housing system in Canada is broken and needs to be redesigned from the ground up.  </p>
   <ModalImage 
