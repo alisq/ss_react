@@ -124,11 +124,9 @@ a.tool_tip {
 
 .studio {
   transition: padding 0.5s ease-in;
-  overflow-y: hidden;
 }
 .studio .studio_body {
   transition: max-height 0.5s ease-in;
-  padding-bottom: 1rem;
   max-height: 0px;
   overflow: hidden;
 }
@@ -180,19 +178,6 @@ a.tool_tip {
   font-size: 0.75em;
 }
 
-@media (max-width: 1400px) {
-  .studio {
-    max-height: 6rem;
-  }
-  .studio .studio_header {
-    height: 7rem;
-  }
-}
-@media (max-width: 800px) {
-  .studio {
-    max-height: 4.5rem;
-  }
-}
 #container {
   /* text-align:center; */
   display: grid;

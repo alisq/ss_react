@@ -152,11 +152,10 @@ a.tool_tip {
     // border-bottom:1px solid $accent;
         transition: padding 0.5s ease-in;
     
-    overflow-y:hidden;
 
     & .studio_body {
             transition: max-height 0.5s ease-in;
-            padding-bottom:1rem;
+            // padding-bottom:1rem;
             max-height:0px;
             overflow:hidden;
 
@@ -229,20 +228,5 @@ a.tool_tip {
     }
 }
 
-@media (max-width:1400px) {
-    .studio { 
-        max-height:6rem;
-
- & .studio_header {
-    height:7rem;
- }
-}
-}  
 
 
-
-@media (max-width:800px) {
-    .studio { 
-        max-height:4.5rem;
-    }
-}  
