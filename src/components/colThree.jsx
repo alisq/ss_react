@@ -10,7 +10,7 @@ function ColThree(){
      <section className="column" id="colThree">
      <div className="column_interior">
        <div className="column_header">
-                  <h2><h6>September 2025-<br />May 2026</h6><br />a cross-Canada<br /> architecture <br />
+                  <h2><div className="date_title">September 2025-<br />May 2026</div><br />a cross-Canada<br /> architecture <br />
 superstudio</h2>
               </div>
             <div className="interior">

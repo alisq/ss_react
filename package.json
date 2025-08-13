@@ -10,6 +10,7 @@
     "html-react-parser": "^5.2.6",
     "react": "^19.1.0",
     "react-dom": "^19.1.0",
+    "react-ga4": "^2.1.0",
     "react-modal-image": "^2.6.0",
     "react-scripts": "5.0.1",
     "sass": "^1.89.2",

@@ -35,7 +35,7 @@ h2 {
   line-height: 2rem;
   margin-top: 0.6em;
 }
-h2 h6 {
+h2 .date_title {
   padding: 0;
   margin: 0;
   display: inline-block;
@@ -44,6 +44,7 @@ h2 h6 {
   line-height: 1.2;
   height: 1em;
   overflow: visible;
+  font-weight: bold;
 }
 h2 h3 {
   padding: 0;

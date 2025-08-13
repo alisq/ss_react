@@ -8,7 +8,7 @@ function Studio({title, desc, school, teacher, demands, isOpen, onClick}) {
             
 
                               <div className='studio_header' onClick={onClick}>
-                            <h4><span class='triangle'>&#9656;</span> {title}</h4>
+                            <h4><span className='triangle'>&#9656;</span> {title}</h4>
                             <h5>{school}</h5>
                         </div>
                         <div className='studio_body'>
