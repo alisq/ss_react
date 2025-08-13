@@ -32,10 +32,10 @@
   },
   {
     "title": "Penser et construire l’architecture pour habiter la ville",
-    "desc": "<p>Considering architecture and the city as cultural and social projects, Thinking and building architecture to inhabit the city, focuses on the transformation of the city through architecture. By definition, cities are meant to be lived in, but the conditions of their habitability are changing. There are more and more of us, and housing often has the status of a commodity. Because the role of the architectural project is precisely to envisage different scenarios of life through the built environment, it has the capacity to influence, upstream, the future of our cities and their neighborhoods, and to contribute fundamentally to the overall quality of urban life. Thinking and building architecture to inhabit the city looks at architecture from this perspective, with a particular focus on Montreal’s Quartier Namur-Hippodrome.</p>",
+    "desc": "<p>Considering architecture and the city as cultural and social projects, <em>Thinking and building architecture to inhabit the city</em>, focuses on the transformation of the city through architecture. By definition, cities are meant to be lived in, but the conditions of their habitability are changing. There are more and more of us, and housing often has the status of a commodity. Because the role of the architectural project is precisely to envisage different scenarios of life through the built environment, it has the capacity to influence, upstream, the future of our cities and their neighborhoods, and to contribute fundamentally to the overall quality of urban life. <em>Thinking and building architecture to inhabit the city</em> looks at architecture from this perspective, with a particular focus on Montreal’s Quartier Namur-Hippodrome.</p>",
     "school": "Université de Montréal",
-    "demands": [],
-    "teacher": "Anne Cormier, Frédéric Dubé, Ana Medina"
+    "demands": "Build to inhabit the city",
+    "teacher": "Anne Cormier, Frédéric Dubé, Joanne Godin"
   },
   {
     "title": "Housing, Community, City Building & Placemaking",
@@ -46,11 +46,9 @@
   },
   {
     "title": "Living Cooperatively",
-    "desc": "<p>This UG 2nd Yr. studio (also required to address design constraints like Zoning and OBC) will partner with a local Indigenous Housing Development Agency, to examine alternative urban infill  intensification strategies, and how they  might support the needs of  this particular client group.</p><p>Students will study precedents and analyze the history and morphology of this historic part of Toronto/Takaronto. They will design a duplex lanehouse- doubling allowable density and challenging current height constraints as a first project. The main project of the term is a midrise infill project that should propose responsive and alternative ways of living in the interstitial spaces to be found in this neighbourhood of large houses, midrise apartment buildings and laneways. Students learn about Toronto’s Midrise Guidelines, and exiting requirements and are asked to both understand and challenge these parameters. Lectures on Single Use Stairs: Conrad Speckert</p>",
+    "desc": "<p>This UG 2nd Yr. studio (also required to address design constraints like Zoning and OBC) will partner with a local Indigenous Housing Development Agency, to examine alternative urban infill  intensification strategies, and how they  might support the needs of  this particular client group. </p>\n\n<p>Students will study precedents and analyze the history and morphology of this historic part of Toronto/Takaronto. They will design a duplex lanehouse- doubling allowable density and challenging current height constraints as a first project. The main project of the term is a midrise infill project that should propose responsive and alternative ways of living in the interstitial spaces to be found in this neighbourhood of large houses, midrise apartment buildings and laneways. Students learn about Toronto’s Midrise Guidelines, and exiting requirements and are asked to both understand and challenge these parameters. Lectures on Single Use Stairs: Conrad Speckert\n</p>",
     "school": "Toronto Metropolitan University",
-    "demands": [
-      "Challenge existing zoning constraints to provide alternative housing types,density, intensification and modes of tenure "
-    ],
+    "demands": "Challenge existing zoning constraints to provide alternative housing types,density, intensification and modes of tenure ",
     "teacher": "Cheryl Atkinson"
   },
   {
@@ -61,8 +59,8 @@
     "teacher": "Karen Kubey"
   },
   {
-    "title": "Tax Gentrification to build Community Land Trusts",
-    "desc": "<p>This studio will partner with a Toronto Community Land Trust to examine housing strategies to mitigate gentrification in a downtown neighbourhood. The studio will begin with a neighbourhood analysis to understand gentrification pressure, and its costs, examine existing funding mechanisms for affordable housing, and then design housing on real and/or potential sites in collaboration with its partner organizations.</p>",
+    "title": " Infilling affordable housing within the Kensington Market Community Land Trust",
+    "desc": "<p>This studio will partner with the Kensington Market Community Land Trust (KMCLT) to examine housing strategies designed to mitigate gentrification and secure affordability in the downtown neighbourhood of Kensington Market. Students will begin with a neighbourhood analysis to understand gentrification pressure and the effects of gentrification. Next, students will test a range of different densities of renovation, addition and new construction on a selection of sites in the neighbourhood. Finally, students will design housing that responds to the needs of the community.  design housing in collaboration with its partner organization KMCLT. This studio is part of a housing superstudio that involves more than 10 universities across Canada. It will contribute ideas to this conversation and will benefit from the work or students and instructors working on similar questions in parallel. \n</p>",
     "school": "University of Waterloo",
     "demands": [
       "Tax Gentrification to build Community Land Trusts"
@@ -77,8 +75,8 @@
     "teacher": "David Fortin, Adrian Blackwell"
   },
   {
-    "title": "Comprehensive Studio: Manufactured Ground",
-    "desc": "<p>This year-long studio engages the Spence Neighbourhood Association in the design of two urgent urban projects: a 10-unit + transitional housing development and WE24/Bear Den, a 24-hour emergency and support center for vulnerable youth. Through partnerships with Cornerstone Timberframe and AA’s Hooke Park, students will explore contemporary timber manufacturing and community-led design. Inspired by the work of Material Cultures, a UK-based design and research practice that explores the relationship between construction, land, and climate through low-carbon materials and regional craft, the studio centers manufacturing as a cultural and ecological act. The fall term focuses on research, programming, and fieldwork (including a UK-based trip), while the winter term moves into technical development and construction detailing. The studio examines how architecture can support transitions between land and city, institution and care, material and meaning.</p>",
+    "title": "Manufacturing Otherwise",
+    "desc": "<p>This studio builds on last year’s Trickster-themed inquiry into Indigenous homemaking and housing futures by shifting focus to manufacturing as a holistic, cultural, and ecological act. Rooted in Métis ways of knowing and guided by Indigenous values of reciprocity and relationality, the studio explores how architecture (and how we make architecture) can address the interwoven crises of housing, climate, and alienation.</p>\n<p>\nThe studio is grounded in an ongoing collaboration with the Spence Neighbourhood Association (SNA), a community-led organization located in one of Winnipeg’s most economically and culturally complex urban neighbourhoods. Spence is home to a high concentration of Indigenous residents, including many First Nations, Inuit, and Métis people who move to the city seeking education, healthcare, employment, or refuge. </p>\n\n\n",
     "school": "University of Manitoba",
     "demands": [],
     "teacher": "Shawn Bailey"
@@ -100,5 +98,19 @@
       "Redistribute Power in the Housing Process and  Legitimize and Support Incremental, Self-Directed Building"
     ],
     "teacher": "Inge Roecker"
+  },
+  {
+    "title": "The Architecture of Urban Housing",
+    "desc": "<p>Canada faces four simultaneous crises – lucky us – that directly affect the work of architects: a housing crisis, a climate crisis, a homelessness crisis, and a crisis of connection in an alienated world.\n</p>\n<p>\nThrough case studies, guest lectures, and close readings, our class will systematically interrogate the term “house” as both a structure (noun), and as an action with direct cultural, political, economic, and environmental impacts (verb). The goal is to bring a broad practical understanding of the world and industry in which present-day architects work: from how we got here, to historical takes on the future, to where we’re headed and where we still need to grow. In addition, students will cultivate the ability to make connections between a range of typologies, practices, and delivery models, locally and abroad.\n</p>",
+    "school": "Toronto Metropolitan University",
+    "demands": 0,
+    "teacher": "Robert Raynor"
+  },
+  {
+    "title": "Counter Proposal Studio",
+    "desc": "<p>This graduate design studio will look at significant historical and recently planned developments within the city of Toronto through a critical lens asking, what if things had been done differently? Through speculative proposals students will engage with and question the developments at different scales, with the goals of creating more equitable, livable, culturally vibrant and ecologically conscious designs. Considering housing and cultural spaces as a vital component of city-building, the counter proposals will address issues of culture, density, affordability, and heritage. Students will collaborate with community organizations and stakeholders relevant to their chosen concerns and site locations to envision a more enriching city.</p>",
+    "school": "Toronto Metropolitan University",
+    "demands": 0,
+    "teacher": "Tura Cousins Wilson, Julia Jamrozik"
   }
 ]
