@@ -84,15 +84,6 @@
     "term":"Winter",
     "level":"Graduate"
   },
-    {
-    "title": "Manufacturing Otherwise",
-    "desc": "<p>This studio builds on last year’s Trickster-themed inquiry into Indigenous homemaking and housing futures by shifting focus to manufacturing as a holistic, cultural, and ecological act. Rooted in Métis ways of knowing and guided by Indigenous values of reciprocity and relationality, the studio explores how architecture (and how we make architecture) can address the interwoven crises of housing, climate, and alienation.</p>\n<p>\nThe studio is grounded in an ongoing collaboration with the Spence Neighbourhood Association (SNA), a community-led organization located in one of Winnipeg’s most economically and culturally complex urban neighbourhoods. Spence is home to a high concentration of Indigenous residents, including many First Nations, Inuit, and Métis people who move to the city seeking education, healthcare, employment, or refuge. </p>\n\n\n",
-    "school": "University of Manitoba",
-    "demands": [],
-    "teacher": "Shawn Bailey",
-    "term":"Fall",
-    "level":"Graduate"
-  },
   {
     "title": "Penser et construire l’architecture pour habiter la ville",
     "desc": "<p>Considering architecture and the city as cultural and social projects, <em>Thinking and building architecture to inhabit the city</em>, focuses on the transformation of the city through architecture. By definition, cities are meant to be lived in, but the conditions of their habitability are changing. There are more and more of us, and housing often has the status of a commodity. Because the role of the architectural project is precisely to envisage different scenarios of life through the built environment, it has the capacity to influence, upstream, the future of our cities and their neighborhoods, and to contribute fundamentally to the overall quality of urban life. <em>Thinking and building architecture to inhabit the city</em> looks at architecture from this perspective, with a particular focus on Montreal’s Quartier Namur-Hippodrome.</p>",
@@ -111,6 +102,16 @@
       "Redistribute Power in the Housing Process and  Legitimize and Support Incremental, Self-Directed Building"
     ],
     "teacher": "Inge Roecker",
+    "term":"Fall",
+    "level":"Graduate"
+  },
+
+    {
+    "title": "Manufacturing Otherwise",
+    "desc": "<p>This studio builds on last year’s Trickster-themed inquiry into Indigenous homemaking and housing futures by shifting focus to manufacturing as a holistic, cultural, and ecological act. Rooted in Métis ways of knowing and guided by Indigenous values of reciprocity and relationality, the studio explores how architecture (and how we make architecture) can address the interwoven crises of housing, climate, and alienation.</p>\n<p>\nThe studio is grounded in an ongoing collaboration with the Spence Neighbourhood Association (SNA), a community-led organization located in one of Winnipeg’s most economically and culturally complex urban neighbourhoods. Spence is home to a high concentration of Indigenous residents, including many First Nations, Inuit, and Métis people who move to the city seeking education, healthcare, employment, or refuge. </p>\n\n\n",
+    "school": "University of Manitoba",
+    "demands": [],
+    "teacher": "Shawn Bailey",
     "term":"Fall",
     "level":"Graduate"
   },
