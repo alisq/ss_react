@@ -23,7 +23,9 @@ superstudio</h2>
                               onClick={() => setOpenIndex(openIndex === index ? null : index)} 
                               title={item.title} 
                               desc={item.desc} 
-                              school={item.school} 
+                              school={item.school}
+                              term={item.term} 
+                              level={item.level}
                               demands={item.demands} 
                               teacher={item.teacher} />
                         </div> 

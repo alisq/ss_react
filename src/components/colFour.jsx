@@ -16,6 +16,7 @@ function ColFour(){
   <li><a href="https://www.bcit.ca/programs/architectural-science-bachelor-of-architectural-science-full-time-8050btech/" target="_blank">British Columbia Institute of Technology</a></li>
   <li><a href="https://architecture.carleton.ca/" target="_blank">Carleton University</a></li>
   <li><a href="https://www.dal.ca/faculty/architecture-planning/school-of-architecture.html" target="_blank">Dalhousie University</a></li>
+  <li><a href="https://www.mcgill.ca/architecture/" target="_blank">McGill University</a></li>
   <li><a href="https://www.torontomu.ca/architecture/" target="_blank">Toronto Metropolitan University</a></li>
   <li><a href="https://sala.ubc.ca/" target="_blank">University of British Columbia</a></li>
   <li><a href="https://sapl.ucalgary.ca/" target="_blank">University of Calgary</a></li>

@@ -1,4 +1,16 @@
 [
+    {
+    "title": "Community-Centric Housing for Rural and Regional Canada",
+    "desc": "<p>This interdisciplinary architectural design studio invites students across various levels of design study to collaboratively explore housing solutions rooted in equity, resilience, and sustainability. Focusing on a rural or regional community in Alberta, the studio challenges participants to design a comprehensive, community-focused housing framework that integrates immediate emergency relief units, backfill housing, multi-generational dwellings, and multi-unit residential typologies. Emphasizing the use of regional materials and low-embodied carbon strategies, the studio will promote holistic thinking through site planning, regenerative design principles, and sensitivity to the social, cultural, and environmental contexts of rural Canada. Students will work collectively to develop inclusive, adaptable, and climate-conscious housing models that reflect the values and needs of rural and regional communities in Canada.</p>",
+    "school": "Athabasca University",
+    "demands": [
+      "Intentional Communities for Unhoused People"
+    ],
+    "teacher": "Veronica Madonna",
+    "term":"Fall",
+    "level":"Undergraduate"
+    
+  },
   {
     "title": "ReZoned: Adaptive Housing on Underused Church Land",
     "desc": "<p>ReZoned studio explores how surplus faith-based properties can be reimagined as sites for reparative, community-led housing. Through the lens of architecture and urban design, students will investigate models of mutual aid, intentional communities, and transitional housing for unhoused populations. The course examines zoning challenges, adaptive reuse strategies, and community partnerships that enable churches to serve as housing stewards. Studio projects and case studies will engage students in designing dignified, low-barrier housing on underutilized land—where design becomes a tool for repair, equity, and belonging. This is architecture in service of both place and people.</p>",
@@ -9,7 +21,9 @@
       "Intentional Communities for Unhoused People",
       "Mutual Aid Housing"
     ],
-    "teacher": "Fernanda Hannah-Suarez"
+    "teacher": "Fernanda Hannah-Suarez",
+    "term":"Winter",
+    "level":"Undergraduate"
   },
   {
     "title": "Graduating Project",
@@ -19,7 +33,18 @@
       "Surplus Properties for Housing",
       "Intentional Communities for Unhoused People"
     ],
-    "teacher": "Jody Patterson"
+    "teacher": "Jody Patterson",
+    "term":"Winter",
+    "level":"Undergraduate"
+  },
+    {
+    "title": "Housing, Community, City Building & Placemaking",
+    "desc": "<p>As the Comprehensive studio in Carleton’s BAS program, students engage housing at a variety of scales and from a range of perspectives.  Sites vary in size from two to ten hectares and frequently include existing buildings.  The larger goal is to design humane, flexible, and relatively dense, enclaves for demographically diverse communities of strangers while augmenting the quality and character the urban environment in the process.  To this end students work closely with both market and not-for-profit housing providers – often on the same site.  Students are challenged to engage and address issues of affordability through architectural and constructional design.</p>",
+    "school": "Carleton University",
+    "demands": [],
+    "teacher": "Benjamin Gianni",
+    "term":"Fall",
+    "level":"Undergraduate"
   },
   {
     "title": "Urban Housing Studio",
@@ -28,35 +53,77 @@
     "demands": [
       "All Urban Housing Development Must Include Accessible Public Space"
     ],
-    "teacher": "Niall Savage"
-  },
-  {
-    "title": "Penser et construire l’architecture pour habiter la ville",
-    "desc": "<p>Considering architecture and the city as cultural and social projects, <em>Thinking and building architecture to inhabit the city</em>, focuses on the transformation of the city through architecture. By definition, cities are meant to be lived in, but the conditions of their habitability are changing. There are more and more of us, and housing often has the status of a commodity. Because the role of the architectural project is precisely to envisage different scenarios of life through the built environment, it has the capacity to influence, upstream, the future of our cities and their neighborhoods, and to contribute fundamentally to the overall quality of urban life. <em>Thinking and building architecture to inhabit the city</em> looks at architecture from this perspective, with a particular focus on Montreal’s Quartier Namur-Hippodrome.</p>",
-    "school": "Université de Montréal",
-    "demands": "Build to inhabit the city",
-    "teacher": "Anne Cormier, Frédéric Dubé, Joanne Godin"
-  },
-  {
-    "title": "Housing, Community, City Building & Placemaking",
-    "desc": "<p>As the Comprehensive studio in Carleton’s BAS program, students engage housing at a variety of scales and from a range of perspectives.  Sites vary in size from two to ten hectares and frequently include existing buildings.  The larger goal is to design humane, flexible, and relatively dense, enclaves for demographically diverse communities of strangers while augmenting the quality and character the urban environment in the process.  To this end students work closely with both market and not-for-profit housing providers – often on the same site.  Students are challenged to engage and address issues of affordability through architectural and constructional design.</p>",
-    "school": "Carleton University",
-    "demands": [],
-    "teacher": "Benjamin Gianni"
+    "teacher": "Niall Savage",
+    "term":"Fall",
+    "level":"Graduate"
   },
   {
     "title": "Living Cooperatively",
     "desc": "<p>This UG 2nd Yr. studio (also required to address design constraints like Zoning and OBC) will partner with a local Indigenous Housing Development Agency, to examine alternative urban infill  intensification strategies, and how they  might support the needs of  this particular client group. </p>\n\n<p>Students will study precedents and analyze the history and morphology of this historic part of Toronto/Takaronto. They will design a duplex lanehouse- doubling allowable density and challenging current height constraints as a first project. The main project of the term is a midrise infill project that should propose responsive and alternative ways of living in the interstitial spaces to be found in this neighbourhood of large houses, midrise apartment buildings and laneways. Students learn about Toronto’s Midrise Guidelines, and exiting requirements and are asked to both understand and challenge these parameters. Lectures on Single Use Stairs: Conrad Speckert\n</p>",
     "school": "Toronto Metropolitan University",
     "demands": "Challenge existing zoning constraints to provide alternative housing types,density, intensification and modes of tenure ",
-    "teacher": "Cheryl Atkinson"
+    "teacher": "Cheryl Atkinson",
+    "term":"Winter",
+    "level":"Undergraduate"
   },
+    {
+    "title": "The Architecture of Urban Housing",
+    "desc": "<p>Canada faces four simultaneous crises – lucky us – that directly affect the work of architects: a housing crisis, a climate crisis, a homelessness crisis, and a crisis of connection in an alienated world.\n</p>\n<p>\nThrough case studies, guest lectures, and close readings, our class will systematically interrogate the term “house” as both a structure (noun), and as an action with direct cultural, political, economic, and environmental impacts (verb). The goal is to bring a broad practical understanding of the world and industry in which present-day architects work: from how we got here, to historical takes on the future, to where we’re headed and where we still need to grow. In addition, students will cultivate the ability to make connections between a range of typologies, practices, and delivery models, locally and abroad.\n</p>",
+    "school": "Toronto Metropolitan University",
+    "demands": 0,
+    "teacher": "Robert Raynor",
+    "term":"",
+    "level":""
+  },
+  {
+    "title": "Counter Proposal Studio",
+    "desc": "<p>This graduate design studio will look at significant historical and recently planned developments within the city of Toronto through a critical lens asking, what if things had been done differently? Through speculative proposals students will engage with and question the developments at different scales, with the goals of creating more equitable, livable, culturally vibrant and ecologically conscious designs. Considering housing and cultural spaces as a vital component of city-building, the counter proposals will address issues of culture, density, affordability, and heritage. Students will collaborate with community organizations and stakeholders relevant to their chosen concerns and site locations to envision a more enriching city.</p>",
+    "school": "Toronto Metropolitan University",
+    "demands": 0,
+    "teacher": "Tura Cousins Wilson, Julia Jamrozik",
+    "term":"Winter",
+    "level":"Graduate"
+  },
+    {
+    "title": "Manufacturing Otherwise",
+    "desc": "<p>This studio builds on last year’s Trickster-themed inquiry into Indigenous homemaking and housing futures by shifting focus to manufacturing as a holistic, cultural, and ecological act. Rooted in Métis ways of knowing and guided by Indigenous values of reciprocity and relationality, the studio explores how architecture (and how we make architecture) can address the interwoven crises of housing, climate, and alienation.</p>\n<p>\nThe studio is grounded in an ongoing collaboration with the Spence Neighbourhood Association (SNA), a community-led organization located in one of Winnipeg’s most economically and culturally complex urban neighbourhoods. Spence is home to a high concentration of Indigenous residents, including many First Nations, Inuit, and Métis people who move to the city seeking education, healthcare, employment, or refuge. </p>\n\n\n",
+    "school": "University of Manitoba",
+    "demands": [],
+    "teacher": "Shawn Bailey",
+    "term":"Fall",
+    "level":"Graduate"
+  },
+  {
+    "title": "Penser et construire l’architecture pour habiter la ville",
+    "desc": "<p>Considering architecture and the city as cultural and social projects, <em>Thinking and building architecture to inhabit the city</em>, focuses on the transformation of the city through architecture. By definition, cities are meant to be lived in, but the conditions of their habitability are changing. There are more and more of us, and housing often has the status of a commodity. Because the role of the architectural project is precisely to envisage different scenarios of life through the built environment, it has the capacity to influence, upstream, the future of our cities and their neighborhoods, and to contribute fundamentally to the overall quality of urban life. <em>Thinking and building architecture to inhabit the city</em> looks at architecture from this perspective, with a particular focus on Montreal’s Quartier Namur-Hippodrome.</p>",
+    "school": "Université de Montréal",
+    "demands": "Build to inhabit the city",
+    "teacher": "Anne Cormier, Frédéric Dubé, Joanne Godin",
+    "term":"Winter",
+    "level":"Graduate"
+  },
+
+  {
+    "title": "Home Otherwise: Architecture, Agency, and Collective Housing Futures",
+    "desc": "<p>This course explores how architecture can support community-led housing without positioning design as the sole solution. Grounded in collective ownership, participatory development, reparative practices, and intentional communities, it examines how people gain agency over their spaces. Students will study alternative models that challenge the status quo—co-operatives, land trusts, self-build settlements—and engage with tools for bottom-up design. Through case studies, collaborative work, and speculative proposals, students will critically rethink the role of the architect and contribute to a collective guide for self-building and incremental housing rooted in care, autonomy, and long-term stewardship.</p>",
+    "school": "University of British Columbia",
+    "demands": [
+      "Redistribute Power in the Housing Process and  Legitimize and Support Incremental, Self-Directed Building"
+    ],
+    "teacher": "Inge Roecker",
+    "term":"Fall",
+    "level":"Graduate"
+  },
+
+  
   {
     "title": "Architecture and the Right to Housing: A Practical Case for Radicalism",
     "desc": "<p>In \"Architecture and the Right to Housing\" we will approach the global legal framework for right to housing – law in Canada since 2019 – as an architectural one, an issue of spatial justice. We will examine what it would take for the right to housing to be realized and posit what roles architecture might play. Together, we will “dare to dream,” building on historical social housing projects like Cooperativa Palo Alto and on radical contemporary housing proposals, such as the Squamish Nation’s Sen̓áḵw. This will allow us to meet the human needs of residents, and to respond to what is not only a political failure, but a failure of imagination.</p>",
     "school": "University of Toronto",
     "demands": [],
-    "teacher": "Karen Kubey"
+    "teacher": "Karen Kubey",
+    "term":"Fall",
+    "level":"Graduate"
   },
   {
     "title": " Infilling affordable housing within the Kensington Market Community Land Trust",
@@ -65,52 +132,19 @@
     "demands": [
       "Tax Gentrification to build Community Land Trusts"
     ],
-    "teacher": "Adrian Blackwell"
+    "teacher": "Adrian Blackwell",
+    "term":"Fall",
+    "level":"Undergraduate"
   },
   {
     "title": "Build Now to End Housing Alienation in Waterloo Region",
     "desc": "<p>This will focus on using surplus housing sites in Waterloo Region to propose large scale urban interventions in large groups, within which individuals or 2-3 person groups students will design multi-unit residential buildings. Different groups will focus on different demands to change the housing system in Canada. Students will be in contact with local organizations advocating for different forms of affordable housing, to guide their demand and design. </p>",
     "school": "University of Waterloo",
     "demands": [],
-    "teacher": "David Fortin, Adrian Blackwell"
-  },
-  {
-    "title": "Manufacturing Otherwise",
-    "desc": "<p>This studio builds on last year’s Trickster-themed inquiry into Indigenous homemaking and housing futures by shifting focus to manufacturing as a holistic, cultural, and ecological act. Rooted in Métis ways of knowing and guided by Indigenous values of reciprocity and relationality, the studio explores how architecture (and how we make architecture) can address the interwoven crises of housing, climate, and alienation.</p>\n<p>\nThe studio is grounded in an ongoing collaboration with the Spence Neighbourhood Association (SNA), a community-led organization located in one of Winnipeg’s most economically and culturally complex urban neighbourhoods. Spence is home to a high concentration of Indigenous residents, including many First Nations, Inuit, and Métis people who move to the city seeking education, healthcare, employment, or refuge. </p>\n\n\n",
-    "school": "University of Manitoba",
-    "demands": [],
-    "teacher": "Shawn Bailey"
-  },
-  {
-    "title": "Community-Centric Housing for Rural and Regional Canada",
-    "desc": "<p>This interdisciplinary architectural design studio invites students across various levels of design study to collaboratively explore housing solutions rooted in equity, resilience, and sustainability. Focusing on a rural or regional community in Alberta, the studio challenges participants to design a comprehensive, community-focused housing framework that integrates immediate emergency relief units, backfill housing, multi-generational dwellings, and multi-unit residential typologies. Emphasizing the use of regional materials and low-embodied carbon strategies, the studio will promote holistic thinking through site planning, regenerative design principles, and sensitivity to the social, cultural, and environmental contexts of rural Canada. Students will work collectively to develop inclusive, adaptable, and climate-conscious housing models that reflect the values and needs of rural and regional communities in Canada.</p>",
-    "school": "Athabasca University",
-    "demands": [
-      "Intentional Communities for Unhoused People"
-    ],
-    "teacher": "Veronica Madonna"
-  },
-  {
-    "title": "Home Otherwise: Architecture, Agency, and Collective Housing Futures",
-    "desc": "<p>This course explores how architecture can support community-led housing without positioning design as the sole solution. Grounded in collective ownership, participatory development, reparative practices, and intentional communities, it examines how people gain agency over their spaces. Students will study alternative models that challenge the status quo—co-operatives, land trusts, self-build settlements—and engage with tools for bottom-up design. Through case studies, collaborative work, and speculative proposals, students will critically rethink the role of the architect and contribute to a collective guide for self-building and incremental housing rooted in care, autonomy, and long-term stewardship.</p>",
-    "school": "University of British Columbia",
-    "demands": [
-      "Redistribute Power in the Housing Process and  Legitimize and Support Incremental, Self-Directed Building"
-    ],
-    "teacher": "Inge Roecker"
-  },
-  {
-    "title": "The Architecture of Urban Housing",
-    "desc": "<p>Canada faces four simultaneous crises – lucky us – that directly affect the work of architects: a housing crisis, a climate crisis, a homelessness crisis, and a crisis of connection in an alienated world.\n</p>\n<p>\nThrough case studies, guest lectures, and close readings, our class will systematically interrogate the term “house” as both a structure (noun), and as an action with direct cultural, political, economic, and environmental impacts (verb). The goal is to bring a broad practical understanding of the world and industry in which present-day architects work: from how we got here, to historical takes on the future, to where we’re headed and where we still need to grow. In addition, students will cultivate the ability to make connections between a range of typologies, practices, and delivery models, locally and abroad.\n</p>",
-    "school": "Toronto Metropolitan University",
-    "demands": 0,
-    "teacher": "Robert Raynor"
-  },
-  {
-    "title": "Counter Proposal Studio",
-    "desc": "<p>This graduate design studio will look at significant historical and recently planned developments within the city of Toronto through a critical lens asking, what if things had been done differently? Through speculative proposals students will engage with and question the developments at different scales, with the goals of creating more equitable, livable, culturally vibrant and ecologically conscious designs. Considering housing and cultural spaces as a vital component of city-building, the counter proposals will address issues of culture, density, affordability, and heritage. Students will collaborate with community organizations and stakeholders relevant to their chosen concerns and site locations to envision a more enriching city.</p>",
-    "school": "Toronto Metropolitan University",
-    "demands": 0,
-    "teacher": "Tura Cousins Wilson, Julia Jamrozik"
+    "teacher": "David Fortin, Adrian Blackwell",
+    "term":"Winter",
+    "level":"Undergraduate"
   }
+
+
 ]
