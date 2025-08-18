@@ -17,13 +17,15 @@ function ColFour(){
   <li><a href="https://architecture.carleton.ca/" target="_blank">Carleton University</a></li>
   <li><a href="https://www.dal.ca/faculty/architecture-planning/school-of-architecture.html" target="_blank">Dalhousie University</a></li>
   <li><a href="https://www.mcgill.ca/architecture/" target="_blank">McGill University</a></li>
+  <li><a href="https://admissions.ocadu.ca/program/environmental-design" target="_blank">OCAD University</a></li>
   <li><a href="https://www.torontomu.ca/architecture/" target="_blank">Toronto Metropolitan University</a></li>
+  <li><a href="https://architecture.umontreal.ca/" target="_blank">Université de Montréal</a></li>
   <li><a href="https://sala.ubc.ca/" target="_blank">University of British Columbia</a></li>
   <li><a href="https://sapl.ucalgary.ca/" target="_blank">University of Calgary</a></li>
   <li><a href="https://umanitoba.ca/architecture/" target="_blank">University of Manitoba</a></li>
   <li><a href="https://www.daniels.utoronto.ca/" target="_blank">University of Toronto</a></li>
-  <li><a href="https://admissions.ocadu.ca/program/environmental-design" target="_blank">OCAD University</a></li>
-  <li><a href="https://architecture.umontreal.ca/" target="_blank">Université de Montréal</a></li>
+  
+  
   <li><a href="https://uwaterloo.ca/architecture/" target="_blank">University of Waterloo</a></li>
 </ul>
 

@@ -136,7 +136,7 @@ a.tool_tip {
 }
 .studio.open {
   padding-top: 1rem;
-  max-height: 40rem;
+  max-height: 60rem;
 }
 .studio.open .triangle {
   transform: rotate(90deg);
@@ -243,6 +243,11 @@ html, body {
   padding: 0;
   color: #383131;
   background-color: #FFFFFF;
+}
+
+*::selection {
+  color: #FFFFFF;
+  background-color: #c48726;
 }
 
 .interior {

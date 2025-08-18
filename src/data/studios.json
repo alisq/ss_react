@@ -34,7 +34,7 @@
       "Intentional Communities for Unhoused People"
     ],
     "teacher": "Jody Patterson",
-    "term":"Winter",
+    "term":"Fall",
     "level":"Undergraduate"
   },
     {
@@ -56,6 +56,17 @@
     "teacher": "Niall Savage",
     "term":"Fall",
     "level":"Graduate"
+  },
+    {
+    "title": "Gorilla Park Housing – an exercise in constructive activism",
+    "desc": "<p> The Fall semester of the second year studio will explore strategies for high-density, mixed-use, cooperative housing in Rosemont-La-Petite-Patrie, at the geographic center of Montreal, in a neighbourhood where residential, industrial, and commercial occupancies coexist in buildings that vary widely in scale, form, and material palette. The actual site is an elongated right triangle, approximately 1100 m2 in area. The 81m long hypotenuse faces Gorilla Park (Parc des gorilles), a recently completed and highly successful linear park that runs along an abandoned rail line and bisects the oversized city block diagonally, generating unusual and challenging lot geometries. The park itself is the product of neighbourhood activism, the spirit of which should be reflected in the housing. </p>",
+    "school": "McGill University",
+    "demands": [
+      "Collective Ownership", "Mutual Aid Housing"
+    ],
+    "teacher": "Morgan Carter, Jennifer Thorogood, Rebecca Taylor, David Covo (coordinator)",
+    "term":"Fall",
+    "level":"Undergraduate"
   },
   {
     "title": "Living Cooperatively",

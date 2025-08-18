@@ -12,6 +12,12 @@ html, body {
 }
 
 
+*::selection {
+  color: $bgColor;
+  background-color: $accent;
+}
+
+
 
 .interior {
     padding:0 1em;
